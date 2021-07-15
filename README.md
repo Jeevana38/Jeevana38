@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Jeevana Kalvakuntla</h1>
+<h1 align="center">Hallo👋, Ich bin Jeevana Kalvakuntla</h1>
 <h3 align="center">CS Undergraduate, Vasavi College of Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevana38&label=Profile%20views&color=0e75b6&style=flat" alt="jeevana38" /> </p>
